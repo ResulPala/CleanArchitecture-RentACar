@@ -6,7 +6,7 @@ using Application.Features.Brands.Queries.GetList;
 using AutoMapper;
 using Core.Application.Responses;
 using Core.Persistance.Paging;
-using Domain.Entity;
+using Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
